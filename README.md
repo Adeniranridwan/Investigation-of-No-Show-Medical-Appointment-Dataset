@@ -96,15 +96,15 @@ The dataset consist of about 14 variables (characteristics). These are:
 0 represent False
 1 reprensents True
 
-Prerequisites for this project:
+
+Find the dataset here https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd2e9a_noshowappointments-kagglev2-may-2016/noshowappointments-kagglev2-may-2016.csv&sa=D&ust=1532469042118000
+
+# Prerequisites for this project:
 - Integrated Development Environment (IDE)
 - python 3
 - Installed python packages
 - Dataset
 
-# Dataset:
-
-Find the dataset here https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd2e9a_noshowappointments-kagglev2-may-2016/noshowappointments-kagglev2-may-2016.csv&sa=D&ust=1532469042118000
 
 # Credit:
 - Stackoverflow
